@@ -1,0 +1,1 @@
+In this project learnt about refs, forwardRefs , difference btw refs and state ,portals, timers(setTimeout) and used useImperativeHandle hook to expose child component's functions to a parent component via refs and forwardRefs 
